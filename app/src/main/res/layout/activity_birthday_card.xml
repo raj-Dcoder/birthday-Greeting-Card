@@ -18,7 +18,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="cursive"
-        android:text="Happy Birthday"
+        android:text="HAPPY BIRTHDAY"
         android:textAlignment="center"
         android:textColor="#774434"
         android:textSize="40sp"
